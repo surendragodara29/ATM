@@ -25,7 +25,6 @@ ATM-Simulation/
 
 🚀 How to Run
 1. Clone the Repository
-git clone https://github.com/your-username/ATM-Simulation.git
 2. Open the Project Folder
 cd ATM-Simulation
 3. Run the Python Program
