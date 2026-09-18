@@ -9,17 +9,20 @@ A simple ATM Simulation program built using Python. This beginner-friendly proje
 🔄 Allows additional credit transactions through a loop.
 ✅ Checks for insufficient balance.
 👋 Displays a thank-you message when the program ends.
+
 🛠️ Technologies Used
 Python 3
 input() for user interaction
 if-else statements for decision-making
 while loop for repeated transactions
 Arithmetic operators for balance calculation
+
 📂 Project Structure
 ATM-Simulation/
 │
 ├── ATM.py
 └── README.md
+
 🚀 How to Run
 1. Clone the Repository
 git clone https://github.com/your-username/ATM-Simulation.git
@@ -27,6 +30,7 @@ git clone https://github.com/your-username/ATM-Simulation.git
 cd ATM-Simulation
 3. Run the Python Program
 python ATM.py
+
 💻 Example Output
 Enter the Amount: 2000
 ₹2000 credited from Account
@@ -46,6 +50,7 @@ while loops
 f-strings
 Basic arithmetic
 Account balance management
+
 🔮 Future Improvements
 Add a PIN authentication system.
 Add deposit and withdrawal options.
@@ -54,6 +59,7 @@ Validate negative and invalid amounts.
 Prevent withdrawals greater than the available balance.
 Store transaction history.
 Use functions and a database for better organization.
+
 👨‍💻 Author
 
 Surendra Godara
